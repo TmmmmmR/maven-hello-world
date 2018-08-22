@@ -1,7 +1,3 @@
-/*
-** Demo DevSecOps **
-*/
-
 node {
       stage('Checkout') {
       steps {
